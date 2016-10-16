@@ -95,4 +95,4 @@ username.github.io/aframe-demo/scene1.html
 * [MozVR](https://mozvr.com/)
 * [RICOH THETA Community Forum](http://lists.theta360.guide/)
 
-![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/liveviewer-p5)
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/aframe-demo)
